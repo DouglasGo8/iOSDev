@@ -4,6 +4,7 @@
 
 - https://github.com/appbrewery[Github AppBrewery]
 - https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e[21 Amazing Open Source iOS Apps Written in Swift]
+- https://www.hackingwithswift.com/articles/258/whats-new-in-swift-5-9[What's new in Swift 5.9]
 
 
 .Basic interaction between layers in App
